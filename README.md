@@ -1,6 +1,5 @@
-# Mastering React Context
 
-## YouTube Tutorial and Exemplary Projects
+## [React Documentation on Context](https://react.dev/reference/react/useContext)
 
 **The Fastest Introduction** <br />
 [Learn React Context API - build a todo app tutorial](https://www.youtube.com/watch?v=piZppPZeeso)
