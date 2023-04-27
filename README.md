@@ -14,3 +14,21 @@
 
 **All-Time Classical Course** <br />
 [React Context & Hooks Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
+
+
+**../components**
+- counter with props drilling (CounterProps.jsx)
+- counter with context (CounterContext.jsx)
+- counter with context and reducer (CounterContextReducer.jsx)
+
+- updating a value via context (UpdateValue.jsx)
+- updating an object via context (UpdateObject.jsx)
+- multiple contexts (MultipleContext.jsx)
+
+**../context**
+- scaling up with context and a reducer in CRUD application (CrudApp.jsx)
+
+**../other** (planning)
+- specifying a fallback default value
+- overriding a theme
+- automatically nested headings
