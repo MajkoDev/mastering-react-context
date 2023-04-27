@@ -1,7 +1,7 @@
 #root {
   max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  margin: 0;
+  padding: 3rem;
   text-align: center;
 }
 
@@ -39,4 +39,50 @@
 
 .read-the-docs {
   color: #888;
+}
+
+ul {
+  font-size: small;
+  text-align: start;
+}
+li {
+  padding-bottom: 10px;
+}
+p {
+  margin: 0;
+}
+h2{
+  margin: 0;
+}
+.question {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+/* COUNTER CLASSES */
+.counters {
+  margin: 1rem 0rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: 1px white solid;
+}
+
+.box {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid black;
+  border-radius: 10%;
+}
+
+/* CONTEXT CLASSES */
+.container {
+  border: 1px solid black;
+}
+.panel-dark {
+  background-color: #888;
+}
+.panel-light {
+  background-color: #e4e4e4;
 }
